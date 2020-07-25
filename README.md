@@ -1,5 +1,4 @@
 # Hi  my name is Michał Tracewicz
-#### I'am junior backend developer 💻 and student at Faculty of Mathematics and Computer Science UMK Toruń 👨🏻‍🎓
 
 Some of my skills include:\
 <img src="https://raw.githubusercontent.com/mtracewicz/mtracewicz/master/csharp.svg" height='60'/> <img src="https://raw.githubusercontent.com/mtracewicz/mtracewicz/master/python.svg" height='60'/> <img src="https://raw.githubusercontent.com/mtracewicz/mtracewicz/master/sql.svg" height='60'/>
