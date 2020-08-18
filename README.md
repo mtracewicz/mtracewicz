@@ -7,5 +7,4 @@ Some of my skills include:\
 🌱 I’m currently learning TenserFlow and Keras \
 📫 How to reach me: m.tracewicz@gmail.com 
 
-You can also find me at:\
-[<img src='https://raw.githubusercontent.com/mtracewicz/mtracewicz/master/github.svg' alt='github' height='40'>](https://github.com/mtracewicz) [<img src='https://raw.githubusercontent.com/mtracewicz/mtracewicz/master/web.svg' alt='website' height='40'>](https://mtracewicz.github.io)  
+You can also find me at:[mtracewicz.github.io](https://mtracewicz.github.io)  
