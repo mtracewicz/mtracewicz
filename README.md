@@ -7,4 +7,4 @@ Some of my skills include:\
 
 🔭 I’m currently working on .NET Core microservices \
 🌱 I’m in the process of hands on learning Azure \
-📫 You can find me at: [mtracewicz.ksummarized.com](https://mtracewicz.ksummarized.com/)
+📫 You can also find me at: [mtracewicz.ksummarized.com](https://mtracewicz.ksummarized.com/)
