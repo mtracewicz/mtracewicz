@@ -11,6 +11,6 @@ My main skills are:\
 📫 You can also find me at: [mtracewicz.ksummarized.com](https://mtracewicz.ksummarized.com/)
 
 Skill badge icons come from <a href="https://icons8.com/">icons8.com</a>:
-<a href="https://icons8.com/icon/55251/c-sharp-logo">C Sharp Logo icon by Icons8</a>
-<a href="https://icons8.com/icon/RXrON5kyN96A/database-administrator">Database Administrator icon by Icons8</a>
-<a href="https://icons8.com/icon/VLKafOkk3sBX/azure">Azure icon by Icons8</a>
+<a href="https://icons8.com/icon/55251/c-sharp-logo">C Sharp Logo icon by Icons8</a>,
+<a href="https://icons8.com/icon/RXrON5kyN96A/database-administrator">Database Administrator icon by Icons8</a>,
+<a href="https://icons8.com/icon/VLKafOkk3sBX/azure">Azure icon by Icons8</a>.
